@@ -1,3 +1,9 @@
-h1{
-    color: aqua;
+.font {
+  font-family: "The Nautigal", cursive;
+}
+h1 {
+  color: aqua;
+}
+h2 {
+  color: black;
 }
